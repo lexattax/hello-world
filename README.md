@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-a bit about yoursefl.
+a bit about yourself.
